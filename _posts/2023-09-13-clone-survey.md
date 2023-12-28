@@ -12,6 +12,6 @@ To clone an existing Survey/Template:
 
     b. From the **Engagement Details** page, scroll to the Survey Block at the bottom of the page and click the *Add Survey* button and then *Clone an existing Survey/Template*
    
-  ![Clone Survey from tab](/assets/UserGuideImages/Images/clone-survey/clone-survey-image-of-clone-survey-through-survey-tab_.png){: .light .w-75 .shadow .rounded-10}  
+![Clone Survey from tab](/assets/UserGuideImages/Images/clone-survey/clone-survey-image-of-clone-survey-through-survey-tab_.png){: .light .w-75 .shadow .rounded-10}  
 
 2. After selecting an existing Survey/Template to clone, you can edit/customize the survey content. For more information on survey customization, go to [Survey Builder](/met-guide/posts/survey-builder/).
