@@ -5,6 +5,7 @@ categories: [pages/features, report, settings, pages]
 tags: [read comments, comments, questions, data]
 pin: true
 ---
+*
 
 The **Report Settings** page allows you to customize which survey questions appear in the public report. You can change the settings until the Survey is linked to an engagement and that engagement is scheduled/published.
 
