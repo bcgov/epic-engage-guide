@@ -15,7 +15,11 @@ You can also turn on/off the multi-page option. Please note: if you toggle this 
 
 The left panel includes all the draggable survey components you can choose to add to your survey. All survey components are powered by forms.io. For more information on forms.io, visit the [form.io help centre](https://help.form.io/). Please note, form.io has been customized to make it easier to use. The version you see on the website might differ from the one used in EPIC.engage.  
 
+![List of components](/assets/UserGuideImages/Images/survey-builder/survey-builder-components.png){: .light .shadow .rounded-10}
+
 After adding a survey component, click the “save” button in the window for the component you just added. This will save all the progress made to your survey. 
+
+![Saving components](/assets/UserGuideImages/Images/survey-builder/survey-builder-save-components.png){: .light .shadow .rounded-10}
 
 Below the left panel, you will see the options to hide your survey and make your survey a template.
 
