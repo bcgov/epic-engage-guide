@@ -11,6 +11,8 @@ You will be directed to this page after clicking 'Read All Comments' from the Co
 
 ![Read all Comments](/assets/UserGuideImages/Images/read-all-comments/comment-review-page.png){: .light .shadow .rounded-10}
 
+**replace image with new image of "export data" button**
+
 You can click on the comment ID number which will direct you to the Comment Review page. For more information on reviewing comments, go to the [Comment Review page](/met-guide/posts/comment-review-page/). 
 
 You can also click the *Export Data* button to download all the comments in an Excel spreadsheet or .csv file. For Superusers, there will be two options available: Public/Proponent and Internal Only/Detailed. Team Members can download the Public/Proponent version only.
