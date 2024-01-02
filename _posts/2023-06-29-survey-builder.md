@@ -7,7 +7,7 @@ pin: true
 ---
 The **Survey Builder** allows you to create and customize surveys from scratch, or clone existing surveys or templates and edit them. 
 
-Learn more about creating a new survey on the [Create a New Survey](/met-guide/posts/create-survey/) page or about editing a survey on the [Edit a Survey](/met-guide/posts/edit-survey/). Once you have created or cloned your survey, or want to edit your survey, you'll do this in the Survey Builder.
+Learn more about creating a new survey on the [Create a New Survey](/met-guide/posts/create-survey/) page or about editing a survey on the [Edit a Survey](/met-guide/posts/edit-a-survey/). Once you have created or cloned your survey, or want to edit your survey, you'll do this in the Survey Builder.
 
 On the survey builder page, you can edit your survey name by clicking the *edit* icon next to your survey name. 
 
