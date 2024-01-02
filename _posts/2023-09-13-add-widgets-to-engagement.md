@@ -15,4 +15,4 @@ After a Superuser creates an engagement, Superusers and Team Members can add wid
 
 ![Widgets](/assets/UserGuideImages/Images/widgets/widgets-engagement-details-page-highlighting-the-add-widget-section.png){: .light .shadow .rounded-10}
 
-You can view the list of all the widgets available on the [Widgets page](/met-guide/posts/widgets/)
+You can view the list of all the widgets available on the [Widgets](/met-guide/posts/widgets/) page.
