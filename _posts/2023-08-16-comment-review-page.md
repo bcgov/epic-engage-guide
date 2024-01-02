@@ -1,7 +1,7 @@
 ---
 title: Comment Review
 date: 2023-08-10 20:55:00 +0800
-categories: [pages/features, comment, review, pages]
+categories: [pages/features, comments, review, pages]
 tags: [read comments, approve, reject, needs further review, email]
 pin: true
 ---
