@@ -1,5 +1,5 @@
 ---
-title: Engagement Details
+title: Engagement Details tab
 date: 2023-09-24 20:55:00 +0800
 categories: [pages/features, engagement, creation, pages]
 tags: [create, details, survey, content, widgets]
