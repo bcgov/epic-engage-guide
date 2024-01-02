@@ -18,7 +18,8 @@ You can also click the *Export Data* button to download all the comments in an E
 - Public/Proponent: This version includes all approved comments selected to be viewable on the Report Settings. Comments are randomized.
 - Internal Only/Detailed: This version includes all the comments by submission (including those not reviewed yet, approved, needing further review, and rejected. Full rejected comments will be available for two weeks after the engagement closes and will be redacted after this period of time), it also includes the submission ID, Date Submitted, Comment Status, Published Date, Reason for Rejection, Reviewer, and Project Name.
 
-**Locking columns in an Excel spreadsheet**
+**Locking columns in an Excel spreadsheet**  
+
 Locking columns will minimize the risk of unauthorized personnel accessing or manipulating the data in an Excel spreadsheet. To lock columns in an Excel spreadsheet, follow these steps:
 1. Select the column you want to lock. You can do this by clicking on the column letter at the top of the sheet.
 2. Right-click on the column and select “Format Cells.”
